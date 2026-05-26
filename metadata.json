@@ -1,0 +1,6 @@
+{
+  "name": "Petualangan Kiko: Harta Karun 3D",
+  "description": "Game petualangan 3D interaktif yang seru dan lucu! Kendalikan Kiko untuk mencari kunci, melompati rintangan, mengumpulkan koin, dan menemukan peti harta karun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
